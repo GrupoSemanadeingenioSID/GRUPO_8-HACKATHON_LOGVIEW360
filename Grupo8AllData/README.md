@@ -3,6 +3,9 @@
 ## Descripción
 Este proyecto, desarrollado por el grupo 8 “All Data” durante la Hackathon del Banco del Occidente, aborda la problemática de identificar y predecir fallos en transacciones financieras a partir de sus logs. Se compone de dos fases principales:
 
+## Video Presentacion
+Link: 
+
 1. **Preprocesamiento de logs:**  
    - Estandarización de formatos  
    - Extracción y creación de variables (número de verificaciones, frecuencia de IP, etc.)  
